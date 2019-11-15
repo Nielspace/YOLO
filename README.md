@@ -22,6 +22,6 @@ Watch this <a href = 'https://www.youtube.com/watch?v=Cgxsv1riJhI'>TED</a> talk 
 
 --------------------------------
 ## ToDo
-- deploy the model in real time
-- to replicate the same using pytorch and also keras
+- Deploy the model in real time
+- To replicate the same using pytorch and also keras
 
