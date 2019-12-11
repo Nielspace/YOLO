@@ -2,7 +2,7 @@
 
 You only look once (YOLO) is a state-of-the-art, real-time object detection system. It was part of darknet open source framework. 
 
-To know more vist the website at <a href='https://pjreddie.com/darknet/'> www.pjreddie.com/darknet/ </a>. 
+To know more vist the website at <a href='https://pjreddie.com/darknet/'> www.pjreddie.com/darknet/</a>. 
 
 -----------------------------------
 
